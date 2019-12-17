@@ -6005,6 +6005,39 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "test monster name",
+      "age": 234234,
+      "description": "a good monster",
+      "id": 1002
+    },
+    {
+      "id": 1003
+    },
+    {
+      "id": 1004
+    },
+    {
+      "id": 1005
+    },
+    {
+      "name": "add to database test",
+      "age": "2342",
+      "description": "add test",
+      "id": 1006
+    },
+    {
+      "name": "lajfkladsf",
+      "age": "234",
+      "description": "lksajfa",
+      "id": 1007
+    },
+    {
+      "name": "sample name",
+      "age": "sample age",
+      "description": "sample desc",
+      "id": 1008
     }
   ]
 }
